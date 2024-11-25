@@ -17,7 +17,7 @@
          root
       </property>      
       <property name = "hibernate.connection.password">
-         8868981005
+         
       </property>     
       <property name = "show_sql">
          true
